@@ -8,3 +8,7 @@ Ini adalah akun github saya 😉
 
 # Cita-Cita
 - Ulama intelek.
+
+# Rencana
+- Belajar pengembangan aplikasi Android berbasis Kotlin.
+- Belajar mikro transaksi dalam aplikasi.
