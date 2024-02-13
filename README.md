@@ -11,4 +11,8 @@ Ini adalah akun github saya 😉
 
 # Rencana
 - Belajar pengembangan aplikasi Android berbasis Kotlin.
+- Belajar IoT
+    - Arduino Nano
+    - GSM Module
+
 - Belajar mikro transaksi dalam aplikasi.
