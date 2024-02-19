@@ -10,6 +10,7 @@ Ini adalah akun github saya 😉
 - Ulama intelek.
 
 # Rencana
+- Membuat channel youtube tutorial membuat project. 
 - Belajar pengembangan aplikasi Android berbasis Kotlin.
 - Belajar IoT
     - Arduino Nano
