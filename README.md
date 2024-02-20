@@ -1,6 +1,9 @@
 # Salam sahabat semua! 👋
 Ini adalah akun github saya 😉
 
+# 💼 Pengalaman / Skills
+- Pemrograman Web Basic
+
 # Motivasi
 - Syahadat dua melingkar.
 - Pagi itu panjang, maka janganlah isi dengan maksiat.
