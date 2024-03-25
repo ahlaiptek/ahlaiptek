@@ -2,7 +2,8 @@
 Ini adalah akun github saya 😉
 
 # 💼 Pengalaman / Skills
-- Pemrograman Web Basic
+- Pemrograman Web Basic (HTML, CSS, dan JS)
+- Pemrograman Android Studio dengan Kotlin
 
 # Motivasi
 - Syahadat dua melingkar.
