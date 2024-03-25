@@ -12,12 +12,3 @@ Ini adalah akun github saya 😉
 
 # Cita-Cita
 - Ulama intelek.
-
-# Rencana
-- Membuat channel youtube tutorial membuat project. 
-- Belajar pengembangan aplikasi Android berbasis Kotlin.
-- Belajar IoT
-    - Arduino Nano
-    - GSM Module
-
-- Belajar mikro transaksi dalam aplikasi.
