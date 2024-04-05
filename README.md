@@ -5,13 +5,12 @@ Selamat datang di profil GitHub saya! Saya senang berbagi pengalaman dan pengeta
 ## 💼 Pengalaman dan Keahlian
 - **Pemrograman Web**: Mendalami HTML, CSS, dan JavaScript untuk menciptakan pengalaman pengguna yang menarik dan responsif.
 - **Pemrograman Aplikasi Mobile**: Memiliki pengalaman menggunakan Android Studio dengan Kotlin untuk mengembangkan aplikasi mobile yang inovatif.
-- **Pemrograman Backend**: Familiar dengan pengembangan aplikasi web menggunakan Laravel untuk membangun sistem yang handal dan efisien.
+- **Pemrograman Backend**: Familiar dengan pengembangan aplikasi web menggunakan NestJS untuk membangun sistem yang handal dan efisien.
 
 ## 🚀 Bahasa Pemrograman
 - **JavaScript**: Menggunakan JavaScript untuk membuat aplikasi web yang dinamis dan interaktif.
 - **Kotlin**: Menguasai Kotlin untuk mengembangkan aplikasi Android yang keren dan efisien.
 - **Python**: Menyukai Python untuk pemrograman umum, analisis data, dan pengembangan web.
-- **PHP**: Memiliki pengalaman dalam pengembangan web dengan PHP untuk membangun situs web yang dinamis.
 
 # 🌟 Motivasi
 - "Sesungguhnya, shalat itu adalah tiang agama." - Rasulullah SAW
