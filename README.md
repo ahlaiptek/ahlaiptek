@@ -7,6 +7,7 @@ Ini adalah akun github saya 😉
 - Pemrograman Laravel Basic
 
 ## Bahasa Pemrograman
+- JavaScript
 - Kotlin
 - Python
 - PHP
