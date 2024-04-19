@@ -9,8 +9,6 @@ Selamat datang di profil GitHub saya! Saya senang berbagi pengalaman dan pengeta
 
 ## 🚀 Bahasa Pemrograman
 - **JavaScript**: Menggunakan JavaScript untuk membuat aplikasi web yang dinamis dan interaktif.
-- **Kotlin**: Menguasai Kotlin untuk mengembangkan aplikasi Android yang keren dan efisien.
-- **Python**: Menyukai Python untuk pemrograman umum, analisis data, dan pengembangan web.
 
 # 🌟 Motivasi
 - "Sesungguhnya, shalat itu adalah tiang agama." - Rasulullah SAW
