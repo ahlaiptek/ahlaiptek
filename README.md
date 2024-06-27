@@ -2,11 +2,15 @@
 
 Selamat datang di profil GitHub saya! Saya senang berbagi pengalaman dan pengetahuan dalam dunia pemrograman serta mencari kesempatan untuk terus belajar dan berkembang.
 
-# Pengalaman
-- HTML
-- CSS
-- JS
+# Spesialisasi
+- Bootstrap [5]
+- Tailwind
+- NodeJS [18]
 - ReactJS
+- NextJS
+- Wordpress
+- Laravel
+
 
 
 # Sertifikat
