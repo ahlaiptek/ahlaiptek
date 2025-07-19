@@ -1,16 +1,38 @@
-## Hi there 👋
+## 👋 Halo! Selamat Datang di Profil Saya!
 
-<!--
-**ahlaiptek/ahlaiptek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang pengembang perangkat lunak yang antusias dengan berbagai pengalaman dalam membangun aplikasi *web* dan *mobile*. Saya suka mempelajari teknologi baru dan menciptakan solusi yang efisien serta mudah digunakan.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Keahlian Teknis Saya
+
+Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
+
+#### 💻 Bahasa Pemrograman
+* **Java** ☕
+* **PHP** 🐘
+* **JavaScript & TypeScript** 📜 (dengan keahlian di NodeJS, Bun, dan Deno)
+* **Python** 🐍
+* **Kotlin** 🤖
+* **GoLang** 🐹
+* **Dart** 🎯
+
+#### 🧩 *Frameworks*
+* **Laravel** ⚜️
+* **Flutter** 🦋
+* **NestJS** 🦢
+
+#### 📦 *Modules* / Pustaka
+* **ReactJS** ⚛️
+* **VueJS** 💚
+
+#### 🛠️ Lainnya
+* **HTML, CSS, JavaScript** 🌐
+* **SQL** 🗄️
+
+
+---
+
+### 🤝 Mari Terhubung!
+
+Tertarik untuk berkolaborasi atau sekadar berbincang tentang teknologi? Jangan ragu untuk menghubungi saya!
