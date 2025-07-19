@@ -1,3 +1,5 @@
+Tentu, ini draf profil Anda yang sudah ditambahkan CI/CD dengan Jenkins, serta Docker dan Podman:
+
 ## 👋 Halo! Selamat Datang di Profil Saya!
 
 Saya seorang pengembang perangkat lunak yang antusias dengan berbagai pengalaman dalam membangun aplikasi *web* dan *mobile*. Saya suka mempelajari teknologi baru dan menciptakan solusi yang efisien serta mudah digunakan.
@@ -29,7 +31,9 @@ Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
 #### 🛠️ Lainnya
 * **HTML, CSS, JavaScript** 🌐
 * **SQL** 🗄️
-
+* **CI/CD** (Jenkins) 🚀
+* **Docker** 🐳
+* **Podman** 🐧
 
 ---
 
