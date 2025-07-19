@@ -26,7 +26,7 @@ Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
 
 #### 🛠️ Alat & Teknologi Lainnya
 * **Dasar Web:** HTML, CSS, JavaScript 🌐
-* **Database:** SQL 🗄️
+* **Database:** SQL 🗄️, **MySQL** 🐬, **PostgreSQL** 🐘
 * **CI/CD:** Jenkins 🚀
 * **Containerization:** Docker 🐳, Podman 🐧
 * **Content Management System (CMS):** WordPress ⚙️
