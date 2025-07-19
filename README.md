@@ -16,6 +16,7 @@ Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
 * **Kotlin** 🤖
 * **GoLang** 🐹
 * **Dart** 🎯
+* **Rust** 🦀
 
 #### 🧩 *Frameworks & Libraries*
 * **Web Frameworks:** Laravel ⚜️, NestJS 🦢, Django 🐍
