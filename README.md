@@ -17,21 +17,18 @@ Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
 * **GoLang** 🐹
 * **Dart** 🎯
 
-#### 🧩 *Frameworks*
-* **Laravel** ⚜️
-* **Flutter** 🦋
-* **NestJS** 🦢
+#### 🧩 *Frameworks & Libraries*
+* **Web Frameworks:** Laravel ⚜️, NestJS 🦢, Django 🐍
+* **Mobile Frameworks:** Flutter 🦋
+* **Frontend Libraries:** ReactJS ⚛️, VueJS 💚, jQuery ⚡
+* **CSS Frameworks:** Bootstrap 🅱️, Tailwind CSS 🌬️
 
-#### 📦 *Modules* / Pustaka
-* **ReactJS** ⚛️
-* **VueJS** 💚
-
-#### 🛠️ Lainnya
-* **HTML, CSS, JavaScript** 🌐
-* **SQL** 🗄️
-* **CI/CD** (Jenkins) 🚀
-* **Docker** 🐳
-* **Podman** 🐧
+#### 🛠️ Alat & Teknologi Lainnya
+* **Dasar Web:** HTML, CSS, JavaScript 🌐
+* **Database:** SQL 🗄️
+* **CI/CD:** Jenkins 🚀
+* **Containerization:** Docker 🐳, Podman 🐧
+* **Content Management System (CMS):** WordPress ⚙️
 
 ---
 
