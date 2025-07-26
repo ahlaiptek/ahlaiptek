@@ -19,7 +19,7 @@ Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
 * **Rust** 🦀
 
 #### 🧩 *Frameworks & Libraries*
-* **Web Frameworks:** Laravel ⚜️, NestJS 🦢, Django 🐍
+* **Web Frameworks:** Laravel ⚜️, NestJS 🦢, Django 🐍, Codeigniter
 * **Mobile Frameworks:** Flutter 🦋
 * **Frontend Libraries:** ReactJS ⚛️, VueJS 💚, jQuery ⚡
 * **CSS Frameworks:** Bootstrap 🅱️, Tailwind CSS 🌬️
