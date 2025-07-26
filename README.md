@@ -22,7 +22,8 @@ Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
 * **Zig**
 
 #### 🧩 *Frameworks & Libraries*
-* **Web Frameworks:** Laravel ⚜️, NestJS 🦢, Django 🐍, Codeigniter
+* **Web Frameworks:** Laravel ⚜️, NextJS, Django 🐍, Codeigniter
+* **Backend Frameworks:** NestJS
 * **Mobile Frameworks:** Flutter 🦋
 * **Frontend Libraries:** ReactJS ⚛️, VueJS 💚, jQuery ⚡
 * **CSS Frameworks:** Bootstrap 🅱️, Tailwind CSS 🌬️
