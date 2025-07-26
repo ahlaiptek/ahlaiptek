@@ -10,6 +10,8 @@ Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
 
 #### 💻 Bahasa Pemrograman
 * **Java** ☕
+* **C++**
+* **Ruby**
 * **PHP** 🐘
 * **JavaScript & TypeScript** 📜 (dengan keahlian di NodeJS, Bun, dan Deno)
 * **Python** 🐍
