@@ -12,13 +12,14 @@ Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
 * **Java** ☕
 * **C++**
 * **Ruby**
-* **PHP** 🐘
+* **PHP** 🐘 (dengan juga keahlian menggunakan runtime FrankenPHP)
 * **JavaScript & TypeScript** 📜 (dengan keahlian di NodeJS, Bun, dan Deno)
 * **Python** 🐍
 * **Kotlin** 🤖
 * **GoLang** 🐹
 * **Dart** 🎯
 * **Rust** 🦀
+* **Zig**
 
 #### 🧩 *Frameworks & Libraries*
 * **Web Frameworks:** Laravel ⚜️, NestJS 🦢, Django 🐍, Codeigniter
