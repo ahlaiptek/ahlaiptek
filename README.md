@@ -29,14 +29,12 @@ Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
 * **CSS Frameworks:** Bootstrap 🅱️, Tailwind CSS 🌬️
 
 #### 🛠️ Alat & Teknologi Lainnya
-* **Dasar Web:** HTML  Markup 📄, CSS 🎨, JavaScript 📜 🌐
+* **Dasar Web:** HTML Markup 📄, CSS 🎨, JavaScript 📜 🌐
 * **Database:** SQL 🗄️, **MySQL** 🐬, **PostgreSQL** 🐘
 * **CI/CD:** Jenkins 🚀
 * **Containerization:** Docker 🐳, Podman 🐧
-* **Content Management System (CMS):** WordPress ⚙️
-
-#### 🛠️ Panel
-* DirectAdmin 🖥️
+* **Content Management System (CMS):** WordPress ⚙️, **LLMs Moodle** 🧠 (sebagai referensi, **LLMs** adalah **Large Language Models**, dan **Moodle** adalah platform pembelajaran online yang sering mengintegrasikannya).
+* **Panel:** DirectAdmin 🖥️
 
 ---
 
