@@ -1,5 +1,3 @@
-Tentu, ini profil Anda dengan tambahan emoji yang sesuai:
-
 ## 👋 Halo! Selamat Datang di Profil Saya! ✨
 
 Saya seorang pengembang perangkat lunak yang antusias dengan berbagai pengalaman dalam membangun aplikasi *web* 🌐 dan *mobile* 📱. Saya suka mempelajari teknologi baru 💡 dan menciptakan solusi yang efisien serta mudah digunakan. 👍
