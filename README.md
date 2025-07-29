@@ -33,8 +33,15 @@ Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
 * **Database:** SQL 🗄️, **MySQL** 🐬, **PostgreSQL** 🐘
 * **CI/CD:** Jenkins 🚀
 * **Containerization:** Docker 🐳, Podman 🐧
-* **Content Management System (CMS):** WordPress ⚙️, **LMS Moodle** 🎓 (sebagai referensi, **LMS** adalah **Learning Management System**, seperti Moodle)
-* **Panel:** DirectAdmin 🖥️
+
+#### ⚙️ Content Management System (CMS)
+* WordPress ⚙️
+
+#### 🎓 Learning Management System (LMS)
+* Moodle 🎓
+
+#### 🖥️ Panel
+* DirectAdmin 🖥️
 
 ---
 
