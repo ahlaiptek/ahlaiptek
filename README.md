@@ -33,6 +33,7 @@ Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
 * **Database:** SQL 🗄️, **MySQL** 🐬, **PostgreSQL** 🐘
 * **CI/CD:** Jenkins 🚀
 * **Containerization:** Docker 🐳, Podman 🐧
+* **Automasi:** n8n 🔄
 
 #### ⚙️ Content Management System (CMS)
 * WordPress ⚙️
