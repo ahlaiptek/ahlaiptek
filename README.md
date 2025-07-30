@@ -27,6 +27,7 @@ Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
 * **Mobile Frameworks:** Flutter 🦋
 * **Frontend Libraries:** ReactJS ⚛️, VueJS 💚, jQuery ⚡
 * **CSS Frameworks:** Bootstrap 🅱️, Tailwind CSS 🌬️
+* **WhatsApp Libraries:** Baileys 🟢, whatsapp-web.js 🌐📱
 
 #### 🛠️ Alat & Teknologi Lainnya
 * **Dasar Web:** HTML Markup 📄, CSS 🎨, JavaScript 📜 🌐
@@ -34,6 +35,8 @@ Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
 * **CI/CD:** Jenkins 🚀
 * **Containerization:** Docker 🐳, Podman 🐧
 * **Automasi:** n8n 🔄
+* **WhatsApp API:** WAHA - WhatsApp HTTP API 💬🔗
+* **Docker Management:** Dockge 🐳🛠️
 
 #### ⚙️ Content Management System (CMS)
 * WordPress ⚙️
@@ -49,3 +52,5 @@ Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
 ### 🤝 Mari Terhubung!
 
 Tertarik untuk berkolaborasi 🤝 atau sekadar berbincang tentang teknologi? 💬 Jangan ragu untuk menghubungi saya! 📧
+
+---
