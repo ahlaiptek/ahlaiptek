@@ -37,6 +37,7 @@ Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
 * **Automasi:** n8n 🔄
 * **WhatsApp API:** WAHA - WhatsApp HTTP API 💬🔗
 * **Docker Management:** Dockge 🐳🛠️
+* **Backend as a Service (BaaS):** Supabase 💚 (dengan pengalaman menggunakan PostgreSQL 🐘, Authentication 🔐, dan Realtime Subscriptions ⚡)
 
 #### ⚙️ Content Management System (CMS)
 * WordPress ⚙️
