@@ -6,7 +6,7 @@ Saya seorang pengembang perangkat lunak yang antusias dengan berbagai pengalaman
 
 ### 🚀 Keahlian Teknis Saya
 
-Berikut adalah daftar *skill* dan teknologi yang saya kuasai:
+Berikut adalah daftar *skill* dan teknologi yang pernah saya geluti:
 
 #### 💻 Bahasa Pemrograman
 * **Java** ☕
