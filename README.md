@@ -1,6 +1,8 @@
 ## 👋 Halo! Selamat Datang di Profil Saya! ✨
 
-Saya seorang pengembang perangkat lunak yang antusias dengan berbagai pengalaman dalam membangun aplikasi *web* 🌐 dan *mobile* 📱. Saya suka mempelajari teknologi baru 💡 dan menciptakan solusi yang efisien serta mudah digunakan. 👍
+Saya seorang pengembang perangkat lunak yang antusias dengan berbagai pengalaman dalam membangun aplikasi *web* 🌐, *mobile* 📱, dan low level. Saya suka mempelajari teknologi baru 💡 dan menciptakan solusi yang efisien serta mudah digunakan. 👍
+
+Saya adalah seorang pembelajar sepanjang hayat yang bergerak di persimpangan antara nilai-nilai spiritual dan kemajuan teknologi. Sebagai kader Pemuda Muhammadiyah, saya memegang prinsip Fastabiqul Khairat—berlomba-lomba dalam kebaikan melalui penguasaan teknologi yang fundamental dan berdaulat.
 
 ---
 
