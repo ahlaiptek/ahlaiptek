@@ -48,6 +48,8 @@ Berikut adalah daftar *skill* dan teknologi yang pernah saya geluti:
 #### 🖥️ Panel
 * DirectAdmin 🖥️
 * cPanel
+* Coolify
+* Dokploy
 
 ---
 
